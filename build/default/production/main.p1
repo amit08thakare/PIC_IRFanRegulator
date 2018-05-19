@@ -6762,12 +6762,12 @@ Version 3.2 HI-TECH Software Intermediate Code
 [; ;main.c: 112: {
 "112
 {
-"114
-}
 "115
 }
-[; ;main.c: 114: }
+"116
+}
 [; ;main.c: 115: }
+[; ;main.c: 116: }
 [e $U 853  ]
 "79
 [e :U 854 ]
@@ -6778,16 +6778,16 @@ Version 3.2 HI-TECH Software Intermediate Code
  , $ -> . `E7011 5 `uc 859
  , $ -> . `E7011 0 `uc 860
  861 ]
-"115
-[e :U 853 ]
 "116
+[e :U 853 ]
+"117
 }
 [e :U 850 ]
 "76
 [e $U 851  ]
 [e :U 852 ]
-[; ;main.c: 116: }
 [; ;main.c: 117: }
-"117
+[; ;main.c: 118: }
+"118
 [e :UE 849 ]
 }

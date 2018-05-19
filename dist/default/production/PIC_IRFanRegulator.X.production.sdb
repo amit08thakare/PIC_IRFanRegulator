@@ -195,7 +195,7 @@ SPEED_5 5
 {
 "53
 [v main@InputSpeed InputSpeed `uc  1 a 1 4 ]
-"117
+"118
 } 0
 "50 C:\Users\DELL\MPLABXProjects\PIC_IRFanRegulator.X\mcc_generated_files/mcc.c
 [v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]

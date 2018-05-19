@@ -110,7 +110,8 @@ void main(void)
             }
 			default:
 			{
-				/* Invalid Speed */
+				/* Invalid Speed 
+                 On the red LED or blow buzzer */
 			}
 		}
     }
